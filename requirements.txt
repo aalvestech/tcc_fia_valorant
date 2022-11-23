@@ -24,3 +24,6 @@ joblib == 1.2.0
 seaborn == 0.12.1
 matplotlib == 3.6.2
 plotly-express == 0.4.1
+
+#PathLib
+pathlib == 1.0.1
